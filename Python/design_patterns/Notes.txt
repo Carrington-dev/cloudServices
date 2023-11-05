@@ -1,0 +1,16 @@
+Singleton
+Factory
+Facade
+
+Proxy
+Observer 
+Command
+Template
+State
+Adapter
+FlyWeight
+
+Strategy
+Decorator
+Chain of Responsibility
+Mementor
