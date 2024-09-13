@@ -9,3 +9,7 @@ I learrnt to build monolythic web applications first then I condinued to build v
 ### My Expertise
 
 I am a developer who specialise in Python, C++, Java, C# to develop desktop applications, mobile applications etc. __I also like develloping APIs in django, flask or Java.__ Apart from this I have deeloped games for different people whith different complexities.
+
+### List of Skills
+
+Over the years, I have mastered many skills.
