@@ -12,4 +12,5 @@ I am a developer who specialise in Python, C++, Java, C# to develop desktop appl
 
 ### List of Skills
 
-Over the years, I have mastered many skills.
+Over the years, I have mastered many skills. Some of which, are listed below.
+1. 
