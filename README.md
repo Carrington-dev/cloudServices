@@ -19,3 +19,5 @@ Over the years, I have mastered many skills. Some of which, are listed below.
 4. Kubectl
 5. Docker
 6. Docker swarm
+
+7. istio
