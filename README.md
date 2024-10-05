@@ -21,3 +21,4 @@ Over the years, I have mastered many skills. Some of which, are listed below.
 6. Docker swarm
 
 7. istio
+8. helm
